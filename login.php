@@ -63,7 +63,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             <button type="submit" class="btn btn-primary btn-block">Masuk</button>
         </form>
 
-        <a href="#" class="lupa">Lupa Password?</a>
     </div>
 </div>
 
